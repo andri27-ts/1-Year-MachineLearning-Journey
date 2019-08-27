@@ -1,4 +1,4 @@
-# 1 Year ML Journey 
+# 1 Year Machine Learning Journey 
 
 ### An advanced program in Machine Learning and Deep Learning
 
